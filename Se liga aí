@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Se liga</title>
+    </head>
+    <head>
+    <style>
+    html {
+                background: #591e1c;
+                background: url(https://i.ytimg.com/vi/1wZUV2svHsA/maxresdefault.jpg);
+                background-repeat: repeat;
+                background-attachment: fixed;
+                background-blend-mode: overlay;
+                font-family: 'Nunito', sans-serif;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+        }
+        body{
+                    background: #ffffff;
+                    width: 100vw;
+                    max-width: 650px;
+                    text-align: center;
+                    background-attachment: fixed;
+                    border-radius: 20px;
+                    box-shadow: 0 0 10px #000000aa;
+                    padding: 25px;
+                    margin-top: 150px;
+                    margin-bottom: 50px;
+                    font-family:'reboto';
+                    align-items: center;
+            }
+            h1{
+                text-align: center;
+                width: 100%;
+                width: 100vw;
+                max-width: 650px;
+                align-items: center;
+                font-family: 'Playfair Display', serif;
+                background-color: darkgrey;
+            }
+        </style>
+</head>
+<body>
+    <h1>Novidade nova</h1>
+    <p>mano, depois de muito trabalho árduo isso foi feito</p>
+        <img src="https://i.redd.it/2yxkya6ylq1b1.jpg" alt="">
+    
+        <h2>link abaixo</h2>
+        <a href="https://www.youtube.com/watch?v=0GtWo_Ct3UE">JUST DO IT
+    
+</body>
+</html>
